@@ -4,4 +4,4 @@ This is the my first deep learning project after I have completed [Andrew Ng 's 
 
 The goal of the project is from a handwritten digit, the computer can tell which number it is. The dataset is taken from [Kaggle's Digit Recognizer competition](https://www.kaggle.com/c/digit-recognizer)
 
-<img src="M.png" ></img>
+<img src="MNIST.png" ></img>
